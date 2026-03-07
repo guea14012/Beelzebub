@@ -1,3 +1,5 @@
+![Uploading image.png…]()
+
 C2-SERVER for linux
 
 sudo apt update
@@ -8,5 +10,4 @@ pip install web3 py-solc-x
 
 
 
- ![Uploading image.png…]()
               
