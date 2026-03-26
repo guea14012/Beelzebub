@@ -1,0 +1,10 @@
+{
+  "test.txt": [
+    {
+      "chunk": "chunk_0.bin",
+      "nodes": [
+        "http://127.0.0.1:9000"
+      ]
+    }
+  ]
+}
